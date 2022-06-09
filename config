@@ -131,6 +131,7 @@ bindsym $mod+Shift+0 move container to workspace number $ws10
 
 bindsym $mod+n workspace next
 bindsym $mod+p workspace prev
+bindsym $mod+Tab workspace next
 
 # reload the configuration file
 bindsym $mod+Shift+c reload
